@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_bg.9.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\top_bg.9.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_corners_bg.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\corners_bg.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\layout_jpush_webview_layout.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_richpush_btn_selector.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_bg.9.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\bottom_bg.9.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\layout_customer_notitfication_layout.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stripes.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\stripes.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\layout_push_set_dialog.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_richpush_progressbar.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\richpush_progressbar.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jpush_ic_richpush_actionbar_back.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\jpush_ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tiledstripes.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\tiledstripes.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\layout_jpush_popwin_layout.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jpush_notification_icon.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\jpush_notification_icon.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_border_bg.9.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\border_bg.9.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jpush_ic_richpush_actionbar_divider.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\jpush_ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\layout_set_push_time.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\layout_customer_notitfication_layout_one.xml.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\androidapp\\hanjumi\\example\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

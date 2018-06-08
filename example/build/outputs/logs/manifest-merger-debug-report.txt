@@ -1,0 +1,347 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\androidapp\hanjumi\example\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\androidapp\hanjumi\example\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\androidapp\hanjumi\example\AndroidManifest.xml:2:1-176:12
+INJECTED from D:\androidapp\hanjumi\example\AndroidManifest.xml:2:1-176:12
+	package
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:3:5-34
+	android:versionName
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:5:5-32
+		INJECTED from D:\androidapp\hanjumi\example\AndroidManifest.xml
+		INJECTED from D:\androidapp\hanjumi\example\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:4:5-30
+		INJECTED from D:\androidapp\hanjumi\example\AndroidManifest.xml
+		INJECTED from D:\androidapp\hanjumi\example\AndroidManifest.xml
+uses-sdk
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:7:5-73
+	android:targetSdkVersion
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:7:41-70
+	android:minSdkVersion
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:7:15-40
+permission#com.panpan.hantanmi.permission.JPUSH_MESSAGE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:10:5-12:47
+	android:protectionLevel
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:11:9-68
+uses-permission#您应用的包名.permission.JPUSH_MESSAGE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:22:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:31:5-78
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:31:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:33:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:35:5-89
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:35:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:36:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:37:22-65
+application
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:39:5-175:19
+	android:label
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:42:9-41
+	android:icon
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:40:9-45
+	android:allowBackup
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:41:9-36
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:43:9-64
+activity#com.example.jpushdemo.MainActivity
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:46:9-53:20
+	android:label
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:47:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:51:27-74
+activity#com.example.jpushdemo.PushSetActivity
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:55:8-115
+	android:label
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:55:71-103
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:55:18-70
+activity#com.example.jpushdemo.SettingActivity
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:57:8-115
+	android:label
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:57:71-103
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:57:18-70
+activity#com.example.jpushdemo.TestActivity
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:59:9-64:20
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:59:69-93
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:59:19-68
+intent-filter#jpush.testAction+jpush.testCategory
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:60:13-63:29
+action#jpush.testAction
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:61:17-59
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:61:25-56
+category#jpush.testCategory
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:62:17-63
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:62:27-60
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:67:9-71:20
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:68:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:74:9-84:20
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:78:13-37
+	android:configChanges
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:76:13-63
+	android:theme
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:77:13-60
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:75:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.panpan.hantanmi
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:79:13-83:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:80:17-75
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:80:25-72
+category#android.intent.category.DEFAULT
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:81:17-76
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:81:27-73
+category#com.panpan.hantanmi
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:82:17-64
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:82:27-61
+service#cn.jpush.android.service.PushService
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:88:9-98:19
+	android:process
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:89:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:92:13-97:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:93:17-75
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:93:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:94:17-73
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:94:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:95:17-78
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:95:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:96:17-76
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:96:25-73
+provider#cn.jpush.android.service.DataProvider
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:100:9-104:11
+	android:authorities
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:101:13-67
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:103:13-37
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:102:13-65
+service#cn.jpush.android.service.DaemonService
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:108:9-117:19
+	android:enabled
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:110:13-35
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:111:13-36
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:109:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.panpan.hantanmi
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:112:13-115:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:113:17-80
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:113:25-77
+provider#cn.jpush.android.service.DownloadProvider
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:119:9-123:11
+	android:authorities
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:120:13-71
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:122:13-36
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:121:13-69
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:125:9-144:20
+	android:enabled
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:127:13-35
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:126:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.panpan.hantanmi
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:129:13-132:29
+	android:priority
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:129:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:130:17-94
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:130:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:133:13-136:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:134:17-77
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:134:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:135:17-79
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:135:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:138:13-143:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:139:17-78
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:139:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:140:17-80
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:140:25-77
+data
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:142:17-50
+	android:scheme
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:142:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:147:9-99
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:147:73-97
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:147:19-72
+receiver#com.example.jpushdemo.MyReceiver
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:150:9-162:20
+	android:enabled
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:153:13-35
+	android:exported
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:152:13-37
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:151:13-60
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.panpan.hantanmi
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:154:13-161:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:155:17-79
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:155:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:156:17-83
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:156:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:157:17-88
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:157:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:158:17-86
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:158:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:159:17-77
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:159:25-74
+receiver#com.example.jpushdemo.MyJPushMessageReceiver
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:165:9-170:20
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:165:19-78
+intent-filter#cn.jpush.android.intent.RECEIVE_MESSAGE+com.panpan.hantanmi
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:166:13-169:29
+action#cn.jpush.android.intent.RECEIVE_MESSAGE
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:167:17-82
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:167:25-79
+meta-data#JPUSH_CHANNEL
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:172:9-84
+	android:value
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:172:49-82
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:172:20-48
+meta-data#JPUSH_APPKEY
+ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:173:9-91
+	android:value
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:173:48-88
+	android:name
+		ADDED from D:\androidapp\hanjumi\example\AndroidManifest.xml:173:20-47

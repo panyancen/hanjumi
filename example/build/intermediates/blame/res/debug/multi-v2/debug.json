@@ -1,0 +1,105 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\androidapp\\hanjumi\\example\\res\\values-zh\\style.xml",
+                    "from": {
+                        "startLines": "7,2,11",
+                        "startColumns": "1,3,1",
+                        "startOffsets": "295,113,430",
+                        "endLines": "10,6,14",
+                        "endColumns": "9,9,9",
+                        "endOffsets": "428,293,559"
+                    },
+                    "to": {
+                        "startLines": "16,20,25",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "855,993,1178",
+                        "endLines": "19,24,28",
+                        "endColumns": "9,9,9",
+                        "endOffsets": "988,1173,1307"
+                    }
+                },
+                {
+                    "source": "D:\\androidapp\\hanjumi\\example\\res\\values-zh\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,9,13,8,10,11,2,14,12,6,15,7,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "228,109,466,696,410,522,574,55,758,626,286,811,362,161",
+                        "endColumns": "57,51,55,61,55,51,51,53,52,69,75,43,47,66",
+                        "endOffsets": "281,156,517,753,461,569,621,104,806,691,357,850,405,223"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,165,221,283,339,391,443,497,550,620,696,740,788",
+                        "endColumns": "57,51,55,61,55,51,51,53,52,69,75,43,47,66",
+                        "endOffsets": "108,160,216,278,334,386,438,492,545,615,691,735,783,850"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\androidapp\\hanjumi\\example\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\androidapp\\hanjumi\\example\\res\\values\\jpush_style.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "114",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "677"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1128",
+                        "endLines": "25",
+                        "endColumns": "12",
+                        "endOffsets": "1691"
+                    }
+                },
+                {
+                    "source": "D:\\androidapp\\hanjumi\\example\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,9,13,8,10,11,2,14,12,6,15,7,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "274,109,635,915,567,703,767,55,998,829,365,1074,505,161",
+                        "endColumns": "90,51,67,82,67,63,61,53,75,85,139,53,61,112",
+                        "endOffsets": "360,156,698,993,630,762,824,104,1069,910,500,1123,562,269"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,198,266,349,417,481,543,597,673,759,899,953,1015",
+                        "endColumns": "90,51,67,82,67,63,61,53,75,85,139,53,61,112",
+                        "endOffsets": "141,193,261,344,412,476,538,592,668,754,894,948,1010,1123"
+                    }
+                },
+                {
+                    "source": "D:\\androidapp\\hanjumi\\example\\res\\values\\style.xml",
+                    "from": {
+                        "startLines": "7,11,2,15",
+                        "startColumns": "1,1,3,1",
+                        "startOffsets": "295,430,113,579",
+                        "endLines": "10,14,6,18",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "428,577,293,708"
+                    },
+                    "to": {
+                        "startLines": "26,30,34,39",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1696,1834,1986,2171",
+                        "endLines": "29,33,38,42",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "1829,1981,2166,2300"
+                    }
+                }
+            ]
+        }
+    ]
+}
