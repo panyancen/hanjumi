@@ -2,6 +2,7 @@ package com.panpan.hantaimi;
 
 import android.app.Application;
 
+
 import com.facebook.stetho.Stetho;
 
 import org.litepal.LitePal;
