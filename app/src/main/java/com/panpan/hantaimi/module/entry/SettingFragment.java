@@ -29,8 +29,7 @@ import butterknife.OnClick;
  * 设置与帮助
  */
 public class SettingFragment extends RxLazyFragment {
-    @BindView(R.id.app_version_code)
-    TextView mVersionCode;
+
     @BindView(R.id.toolbar)
     Toolbar mToolbar;
 
@@ -55,10 +54,10 @@ public class SettingFragment extends RxLazyFragment {
                 ((MainActivity) activity1).toggleDrawer();
             }
         });
-        mVersionCode.setText("v" + getVersionCode());
+
     }
 
-    @OnClick({R.id.layout_about_me, R.id.layout_about_app, R.id.btn_logout})
+    @OnClick({R.id.layout_about_me, R.id.layout_about_app,R.id.btn_logout})
     void onClick(View view) {
         switch (view.getId()) {
             case R.id.layout_about_me:
@@ -71,8 +70,6 @@ public class SettingFragment extends RxLazyFragment {
                 break;
             case R.id.btn_logout:
                 //退出登录
-                PreferenceUtil.putBoolean(ConstantUtil.KEY, false);
-                startActivity(new Intent(getActivity(), LoginActivity.class));
                 getActivity().finish();
                 break;
         }

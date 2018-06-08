@@ -96,19 +96,7 @@
                 android:background="@color/gray_light" />
 
 
-            <TextView
-                android:id="@+id/tv_network_diagnosis"
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:layout_alignParentStart="true"
-                android:layout_centerInParent="true"
-                android:clickable="true"
-                android:foreground="?attr/selectableItemBackground"
-                android:gravity="center"
-                android:padding="@dimen/default_general_margin"
-                android:text="@string/about_network_diagnosis"
-                android:textColor="@color/font_normal"
-                android:textSize="@dimen/default_small_text_size" />
+
 
 
             <TextView

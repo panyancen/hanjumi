@@ -256,6 +256,7 @@ public class MainActivity extends RxBaseActivity implements NavigationView.OnNav
                         }
                     }catch (Exception e) {
                         e.printStackTrace();
+                        exitApp();
                     }
                 } else {
                     exitApp();

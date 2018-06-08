@@ -16,12 +16,12 @@
     </string-array>
     <string name="app_name">韩泰de蜜</string>
     <string name="hotbitmapgg">大岑</string>
-    <string name="github_link">感谢这位博主，分享源码给我学习：https://github.com/HotBitmapGG</string>
+    <string name="github_link">感谢各位博主，参考项目：https://github.com/HotBitmapGG，https://github.com/CarGuo/GSYVideoPlayer</string>
     <string name="login_hint_account">请输入您的账号</string>
     <string name="login_hint_password">请输入您的密码</string>
     <string name="login">登录</string>
     <string name="check_update">检查更新</string>
-    <string name="logout">退出登录</string>
+    <string name="logout">退出</string>
     <string name="season_list">分季列表</string>
     <string name="search_hint">搜索视频,动态和图库</string>
 
@@ -53,9 +53,11 @@
     <string name="about_network_diagnosis">网络诊断</string>
     <string name="about_share">分享</string>
     <string name="about_feedback">意见反馈</string>
-    <string name="github_url">https://github.com/HotBitmapGG/bilibili-android-client</string>
+    <string name="share_url">项目:http://www.panpan55.top/hantaimi.apk</string>
+    <string name="github_url">项目:https://github.com/panyancen/hanjumi</string>
+    <string name="csdn_url">博客：https://blog.csdn.net/qq_34414578/article/details/80619642</string>
     <string name="share_title">分享韩泰de蜜App</string>
     <string name="feedback_titlle">意见反馈</string>
-    <string name="feedback_message">如果您有任何意见或者发现了Bug，可以到百度联系我，我能解答的尽量帮你解答，谢谢。</string>
+    <string name="feedback_message">如果您有任何意见或者发现了Bug，可以到GitHub或csdn联系我，我能解答的尽量帮你解答，谢谢。</string>
 
 </resources>

@@ -28,8 +28,6 @@ public class AppIntroduceActivity extends RxBaseActivity {
     Toolbar mToolbar;
     @BindView(R.id.tv_version)
     TextView mVersion;
-    @BindView(R.id.tv_network_diagnosis)
-    TextView mTvNetworkDiagnosis;
 
     @Override
     public int getLayoutId() {
@@ -80,7 +78,7 @@ public class AppIntroduceActivity extends RxBaseActivity {
         switch (view.getId()) {
             case R.id.tv_share_app:
                 //分享app
-                ShareUtil.shareLink(getString(R.string.github_url),
+                ShareUtil.shareLink(getString(R.string.share_url),
                         getString(R.string.share_title), AppIntroduceActivity.this);
                 break;
             case R.id.tv_feedback:

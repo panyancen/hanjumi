@@ -85,35 +85,6 @@
             </RelativeLayout>
 
 
-            <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_height="@dimen/user_tag_view_height"
-                android:layout_marginTop="@dimen/default_grow_margin"
-                android:background="@color/card_view_background"
-                android:foreground="?attr/selectableItemBackground">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_alignParentStart="true"
-                    android:layout_centerInParent="true"
-                    android:layout_marginStart="@dimen/default_grow_margin"
-                    android:text="@string/check_update"
-                    android:textColor="@color/font_normal"
-                    android:textSize="@dimen/default_medium_text_size" />
-
-                <TextView
-                    android:id="@+id/app_version_code"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_alignParentEnd="true"
-                    android:layout_centerInParent="true"
-                    android:layout_marginEnd="@dimen/default_grow_margin"
-                    android:text="@string/about_version"
-                    android:textColor="@color/black_alpha_45"
-                    android:textSize="@dimen/default_medium_text_size" />
-
-            </RelativeLayout>
 
 
             <Button
