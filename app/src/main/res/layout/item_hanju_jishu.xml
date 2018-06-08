@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<android.support.v7.widget.CardView android:id="@+id/hanju_jishu_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/default_tiny_padding"
+    android:clickable="true"
+    android:layout_gravity="center"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="13dp"
+    app:cardElevation="3dp">
+
+
+        <Button
+            android:id="@+id/tv_hanju_jishu"
+            android:layout_width="90dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:background="@color/white"
+            android:padding="@dimen/default_general_margin"
+            android:text="ji"
+            android:layout_gravity="center"
+            android:textColor="@color/font_normal"
+            android:textSize="@dimen/default_tiny_text_size" />
+
+</android.support.v7.widget.CardView>
+</LinearLayout>

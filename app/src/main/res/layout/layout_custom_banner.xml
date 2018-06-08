@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/layout_banner_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="165dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true">
+    </android.support.v4.view.ViewPager>
+    <LinearLayout
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+    <TextView
+        android:id="@+id/layout_banner_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:textColor="#fff"
+        android:textSize="17dp"
+        android:text="韩剧蜜" />
+    <LinearLayout
+        android:id="@+id/layout_banner_points_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/layout_banner_viewpager"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/default_general_margin"
+        android:layout_marginEnd="@dimen/default_general_margin"
+        android:orientation="horizontal"
+        android:visibility="visible" />
+    </LinearLayout>
+</RelativeLayout>

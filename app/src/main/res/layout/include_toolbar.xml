@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        app:layout_collapseMode="pin"
+        app:theme="@style/ToolBar.TitleText"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    <ImageView
+        android:id="@+id/ic_fan_go"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|start"
+        android:padding="@dimen/search_back_padding"
+        android:src="@drawable/ic_arrow_back_black"
+        />
+        <ImageView
+            android:id="@+id/ic_share_go"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"
+            android:padding="@dimen/search_back_padding"
+            android:src="@drawable/ic_share"
+            />
+    </android.support.v7.widget.Toolbar>
+</merge>

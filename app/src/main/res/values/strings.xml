@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sections">
+        <item>@string/section_live</item>
+        <item>@string/section_recommend</item>
+        <item>@string/section_bangumi</item>
+        <item>@string/section_more</item>
+        <item>@string/section_focus</item>
+    </string-array>
+
+    <string-array name="sections1">
+        <item>@string/section_hanju</item>
+        <item>@string/section_discover</item>
+        <item>@string/section_dianying</item>
+    </string-array>
+    <string name="app_name">韩泰de蜜</string>
+    <string name="hotbitmapgg">大岑</string>
+    <string name="github_link">感谢这位博主，分享源码给我学习：https://github.com/HotBitmapGG</string>
+    <string name="login_hint_account">请输入您的账号</string>
+    <string name="login_hint_password">请输入您的密码</string>
+    <string name="login">登录</string>
+    <string name="check_update">检查更新</string>
+    <string name="logout">退出登录</string>
+    <string name="season_list">分季列表</string>
+    <string name="search_hint">搜索视频,动态和图库</string>
+
+
+    <!-- Navigation Items -->
+    <string name="item_home">主页</string>
+    <string name="item_history">历史记录</string>
+    <string name="item_settings">设置与帮助</string>
+
+
+    <!--App 介绍-->
+    <string name="about_introduce">「韩泰蜜」</string>
+    <string name="about_developers">关于我</string>
+    <string name="about">关于韩泰蜜</string>
+    <string name="about_version">V1.0</string>
+
+    <!--哔哩哔哩-->
+    <string name="section_live">首页</string>
+    <string name="section_recommend">动态</string>
+    <string name="section_focus">图库</string>
+    <string name="section_more">时尚</string>
+    <string name="section_bangumi">影视</string>
+    <string name="section_hanju">韩剧</string>
+    <string name="section_discover">综艺</string>
+    <string name="section_dianying">电影</string>
+    <string name="about_app_net">来源：http://www.hanju.cc/，手机端网站:http://m.hanju.cc/</string>
+    <string name="all_rights_reserved">All rights reserved</string>
+    <string name="about_open_source">向开源致敬</string>
+    <string name="about_network_diagnosis">网络诊断</string>
+    <string name="about_share">分享</string>
+    <string name="about_feedback">意见反馈</string>
+    <string name="github_url">https://github.com/HotBitmapGG/bilibili-android-client</string>
+    <string name="share_title">分享韩泰de蜜App</string>
+    <string name="feedback_titlle">意见反馈</string>
+    <string name="feedback_message">如果您有任何意见或者发现了Bug，可以到百度联系我，我能解答的尽量帮你解答，谢谢。</string>
+
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@color/colorPrimary"
+                android:contentInsetStart="0dp"
+                app:contentInsetStart="0dp"
+                app:layout_scrollFlags="scroll|enterAlways"
+                app:menu="@menu/menu_main"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+                app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+
+                <LinearLayout
+
+                    android:layout_width="300dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/navigation_layout"
+                        android:layout_width="50dp"
+                        android:layout_height="17dp"
+                        android:layout_gravity="left|center_vertical"
+                        android:src="@drawable/ic_navigation_drawer" />
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/id_action_search"
+                    android:layout_width="50dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:src="@drawable/ic_toolbar_menu_search" />
+                </LinearLayout>
+            </android.support.v7.widget.Toolbar>
+
+
+            <com.flyco.tablayout.SlidingTabLayout
+                android:id="@+id/sliding_tabs"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/tab_layout_default_height"
+                android:background="@color/colorPrimary"
+                android:paddingLeft="@dimen/default_general_margin"
+                android:paddingRight="@dimen/default_general_margin"
+                app:tl_indicator_corner_radius="@dimen/tab_indicator_corner_tiny_radius"
+                app:tl_indicator_height="@dimen/tab_indicator_small_height"
+                app:tl_indicator_width="@dimen/tab_indicator_long_width"
+                app:tl_tab_space_equal="true" />
+
+
+        </android.support.design.widget.AppBarLayout>
+
+
+        <com.panpan.hantaimi.widget.NoScrollViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+    <com.miguelcatalan.materialsearchview.MaterialSearchView
+        android:id="@+id/search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.miguelcatalan.materialsearchview.MaterialSearchView>
+
+
+</FrameLayout>
+
+
+
+
+

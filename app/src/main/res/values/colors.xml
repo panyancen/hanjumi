@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA54F</color>
+    <color name="colorPrimaryDark">#FFA54F</color>
+    <color name="colorAccent">@android:color/black</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whitet">#00FFFFFF</color>
+    <color name="gray">#B8B8B8</color>
+    <color name="gray_20">#B3B3B3</color>
+    <color name="black_80">#222222</color>
+    <color name="black_alpha_45">#71000000</color>
+    <color name="font_normal">#555555</color>
+    <color name="line_bg">#e6e6e6</color>
+    <color name="navigation_background_light">#FFF8F8F8</color>
+    <color name="card_view_background">@color/white</color>
+    <color name="window_background">#eaeaea</color>
+    <color name="nav_head_image_background">#FF668D</color>
+    <color name="yellow_trans">#99FDD835</color>
+    <color name="gray_dark">#999999</color>
+    <color name="gray_light">#dcdcdc</color>
+
+    <!-- theme color -->
+
+</resources>
