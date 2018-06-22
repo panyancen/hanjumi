@@ -36,7 +36,7 @@ public class SplashActivity extends RxActivity {
 
 
     private void setUpSplash() {
-        Observable.timer(2000, TimeUnit.MILLISECONDS)
+        Observable.timer(700, TimeUnit.MILLISECONDS)
                 .compose(bindToLifecycle())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(aLong -> finishTask());

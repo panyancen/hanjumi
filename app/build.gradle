@@ -70,8 +70,8 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_7
-        targetCompatibility JavaVersion.VERSION_1_7
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
 }
 
@@ -109,8 +109,8 @@ dependencies {
     compile 'com.shuyu:gsyVideoPlayer-armv5:5.0.0-beta'
     compile 'com.shuyu:gsyVideoPlayer-armv7a:5.0.0-beta'
     compile 'com.shuyu:gsyVideoPlayer-x86:5.0.0-beta'
-      compile 'com.shuyu:gsyVideoPlayer-arm64:5.0.0-beta'
-      compile 'com.shuyu:gsyVideoPlayer-x64:5.0.0-beta'
+     // compile 'com.shuyu:gsyVideoPlayer-arm64:5.0.0-beta'
+      //compile 'com.shuyu:gsyVideoPlayer-x64:5.0.0-beta'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
     debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5'
     releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
